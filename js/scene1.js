@@ -1,5 +1,5 @@
-class Hello() {
+class Hello {
     constructor() {
-        document.body.innerHTML = "salve";
+        document.body.innerHTML = "Hello world";
     }
 }
